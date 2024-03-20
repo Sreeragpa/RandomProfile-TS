@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.user-info {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px auto;
+  width: 400px; /* Adjust width as needed */
+}
+
+.user-info p {
+  margin-bottom: 5px;
+}
+
+#username, #name, #email, #birthday, #address {
+  font-weight: bold;
+}
